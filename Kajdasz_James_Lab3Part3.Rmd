@@ -1,5 +1,5 @@
 ---
-title: "Lab 3 Final"
+title: "Sample R Analysis"
 author: "James Kajdasz, Yueh-Wen Wang, Aidan Feay"
 date: "8/4/2018"
 output:
